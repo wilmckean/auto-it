@@ -15,3 +15,5 @@ class Diagnostics():
         else:
             print("reachable")
             return True
+
+            #testing something for github
