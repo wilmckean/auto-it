@@ -31,5 +31,5 @@ class GetHostInformation():
             "mac": mac,
             "ip_address_ipv4": ipv4_addresses[0],
             "link_local_ipv4": ipv4_addresses[1]
-        }  
+        }
         return host_data
