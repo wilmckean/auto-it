@@ -1,7 +1,7 @@
 # Auto-IT
 
 ## Description
-A GUI application for troubleshooting network and PC issues. This is intended for portfolio purposes.  
+A GUI application for troubleshooting network issues. This is intended for portfolio purposes.  
 
 ### Project Requirements
 - [ ] Gather basic PC and network information.
